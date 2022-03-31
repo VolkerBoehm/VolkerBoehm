@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VolkerBoehm, working as a developer at knk Business Software AG, Kiel, Germany.
+- 👀 I’m interested in programming in AL.
+- 📫 How to reach me: vboehm@knk.com
